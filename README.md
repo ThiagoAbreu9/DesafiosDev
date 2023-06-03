@@ -1,5 +1,5 @@
 # DesafiosDev
 
-# Este repositório tem como intenção criar desafios em:
+ Este repositório tem como intenção criar desafios em:
 
-# Java , JavaScript
+ Java , JavaScript
